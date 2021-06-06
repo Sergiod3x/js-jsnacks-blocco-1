@@ -1,5 +1,3 @@
-var invitati=[];
-var nInvitati = 3;
 var output=document.getElementById("pre-out");
 var pName = ["Carlo","Michele", "Paolo", "Guglielmo", "Sergio", "Sabrina", "Selene", "Gustavo", "Lara", "Roberto" ];
 var pSurname = ["Rossi","Bianchi", "Vacchi", "Pintus", "Piras", "Nieddu", "Neri", "Rosa", "Carta", "Martini" ];
